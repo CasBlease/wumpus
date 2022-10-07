@@ -10,9 +10,9 @@
 */
 
 #include <stdio.h>
-#include <stdbool.h>	// for the bool type in C
+#include <stdbool.h>	// for the bool type in C [fuck this I'm not using this shit]
 #include <stdlib.h>		// for srand
-#include <ctype.h>		// for toupper()
+#include <ctype.h>		// for toupper() [not using this shit either]
 
 // global constants
 #define MAX_LINE_LENGTH 81
